@@ -1,0 +1,4 @@
+pyppeteer
+matplotlib
+opencv-contrib-python
+requests
